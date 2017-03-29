@@ -16,3 +16,12 @@ Possibilité de faire intervenir des personnes de la communauté Wikipédia. Il 
 * [Gabrielle Marie](https://fr.wikipedia.org/wiki/Utilisatrice:Gabrielle_Marie_WMCH), Community liaison de l'association Wikimedia CH
 * [Rama Neko](https://commons.wikimedia.org/wiki/User:Rama), photographe pour Wikipedia
 * [Jenny Ebermann](https://meta.wikimedia.org/wiki/User:Jeeb1207), directrice de Wikimedia CH
+
+***
+
+Quelques projets / ateliers ayant eu lieu autour de Wikipedia:
+
+* [Wiki-Sprint](https://wiki-sprint.ch/), atelier autour de la définition du VJing, dans le cadre du Mapping Festival 2010. Dirigé par Manuel Schmalstieg.
+* [Wikipedia Illustrated](http://www.wikipediaillustrated.org/about), lancé en 2011 au Transmediale Festival (by artist/illustrator Galia Offri and by designer/educator Mushon Zer-Aviv.)
+* [Just for the record](http://justfortherecord.space/), atelier organisé à Bruxelles, notamment par Loraine Furter.
+* [Projet Art+Féminisme](https://fr.wikipedia.org/wiki/Projet:Art%2BF%C3%A9minisme/2017/Gen%C3%A8ve), mars 2017 à Genève.
