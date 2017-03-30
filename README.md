@@ -23,5 +23,5 @@ Quelques projets / ateliers ayant eu lieu autour de Wikipedia:
 
 * [Wiki-Sprint](https://wiki-sprint.ch/), atelier autour de la définition du VJing, dans le cadre du Mapping Festival 2010. Dirigé par Manuel Schmalstieg.
 * [Wikipedia Illustrated](http://www.wikipediaillustrated.org/about), lancé en 2011 au Transmediale Festival (by artist/illustrator Galia Offri and by designer/educator Mushon Zer-Aviv.)
-* [Just for the record](http://justfortherecord.space/), atelier organisé à Bruxelles, notamment par Loraine Furter.
+* [Just for the record](http://justfortherecord.space/), atelier organisé à Bruxelles, initié en 2015 par Myriam Arseneault-Goulet, Loraine Furter, Sarah Magnan et Mia Melvær.
 * [Projet Art+Féminisme](https://fr.wikipedia.org/wiki/Projet:Art%2BF%C3%A9minisme/2017/Gen%C3%A8ve), mars 2017 à Genève.
