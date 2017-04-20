@@ -2,6 +2,9 @@
 
 À l'occasion des 75 ans de l'Eracom, nous proposons un workshop qui s'intéressera à l'historique de l'institution, des personnes qui y ont contribué, et de manière plus large à l'histoire du graphisme en Suisse romande et au-delà. 
 
+* **Dates:** 19-23 juin 2017
+* **Lieu:** Eracom, Rue de Genève 55, Lausanne
+
 Ce workshop vise à travailler sur la plateforme Wikipédia, et enseignera aux participants comment contribuer à cette encyclopédie en ligne.
 
 Les étapes du workshop:
