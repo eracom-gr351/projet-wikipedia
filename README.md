@@ -10,7 +10,7 @@ Ce workshop vise à travailler sur la plateforme Wikipédia, et enseignera aux p
 Les étapes du workshop:
 
 * Familiariser les élèves avec le fonctionnement de Wikipédia: comment a été créée cette encyclopédie participative, comment elle fonctionne, quelles sont ses règles, qui peut l'éditer. Comprendre le copyright et les licences.
-* Définir les sujets concernant l'Eracom: historique de l'école, biographies de personnalités du graphisme et design, autres institutions de Lausanne et de Suisse romande, mouvements et événements... Exemple: [Karl Gerstner](https://en.wikipedia.org/wiki/Karl_Gerstner), décédé le 1er janvier 2017, n'a pas de page Wikipédia en français. Autres articles à créer: Roger Châtelain, Journée romande de la typographie, Willi Kunz, Jost Hochuli...
+* Définir les sujets concernant l'Eracom: historique de l'école, biographies de personnalités du graphisme et design, autres institutions de Lausanne et de Suisse romande, mouvements et événements...
 * **Mission "recherche":** recherche de sources - livres, magazines, collections. Rencontrer des personnes-ressource.
 * **Mission "écriture":** écriture du contenu des articles, traduction (Fr/En/All...).
 * **Mission "photo":** documentation photographique, portraits de graphistes et designers vivants, documentation d'oeuvres, de machines et outils des professions graphiques.
