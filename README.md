@@ -9,7 +9,7 @@
 
 Ce workshop vise à travailler sur la plateforme Wikipédia, et enseignera aux participants comment contribuer à cette encyclopédie en ligne.
 
-## Objectifs:
+## Objectifs:
 
 * Contribuer à une histoire documentée de l'Eracom et du secteur du graphisme en Suisse romande. 
 * Introduire les étudiants à l'usage de Wikipédia, sensibilisation aux questions d'archivage et de documentation. 
