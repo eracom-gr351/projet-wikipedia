@@ -4,8 +4,8 @@
 
 * **Dates:** 19-23 juin 2017
 * **Lieu:** Eracom, Rue de Genève 55, Lausanne
-* **Equipe:** Anne Hogge Duc, Manuel Schmalstieg
-* **Intervenants:** Loraine Furter, Flor Méchain
+* **Equipe:** Anne Hogge Duc, Loraine Furter, Manuel Schmalstieg
+* **Intervenants:** Flor Méchain
 
 Ce workshop vise à travailler sur la plateforme Wikipédia, et enseignera aux participants comment contribuer à cette encyclopédie en ligne.
 
