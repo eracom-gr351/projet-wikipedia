@@ -67,3 +67,7 @@ Quelques projets / ateliers ayant eu lieu autour de Wikipedia:
 * [Projet Art+Féminisme](https://fr.wikipedia.org/wiki/Projet:Art%2BF%C3%A9minisme/2017/Gen%C3%A8ve), mars 2017 à Genève.
 * [Iraq War Wikihistoriography](http://booktwo.org/notebook/wikipedia-historiography/) (2010), projet de James Bridle, version imprimée de l'historique d'un article Wikipédia.
 * [Print Wikipedia](http://www.mandiberg.com/print-wikipedia/) (2015), projet de Michael Mandiberg, version imprimée de la Wikipédia anglophone ([interview](http://www.artnews.com/2015/06/24/from-aaaaa-to-zzzap-michael-mandiberg-on-his-plan-to-print-wikipedia/)).
+
+## Quelques sujets d'articles possibles
+
+* Articles concernant le graphisme en suisse, existant en allemand mais pas en français: [Die schönsten Schweizer Bücher](https://de.wikipedia.org/wiki/Die_sch%C3%B6nsten_Schweizer_B%C3%BCcher), [Ludovic Balland](https://de.wikipedia.org/wiki/Ludovic_Balland), [Eidgenössischer Wettbewerb für Design](https://de.wikipedia.org/wiki/Eidgen%C3%B6ssischer_Wettbewerb_f%C3%BCr_Design)...
