@@ -28,11 +28,10 @@ Ce workshop vise à travailler sur la plateforme Wikipédia, et enseignera aux p
 
 ## Intervenants externes
 
-Possibilité de faire intervenir des personnes de la communauté Wikipédia. Il y a notamment à Lausanne: 
+Possibilité de faire intervenir des personnes de la communauté Wikipédia. Intervenants prévus: 
 
 * [Flor Méchain](https://fr.wikipedia.org/wiki/Utilisateur:Flor_WMCH), Community liaison de l'association Wikimedia CH pour la Suisse romande
 * [Rama Neko](https://commons.wikimedia.org/wiki/User:Rama), photographe pour Wikipedia: disponible jours 2 ou 3.
-* [Jenny Ebermann](https://meta.wikimedia.org/wiki/User:Jeeb1207), directrice de Wikimedia CH
 
 ## Calendrier
 
