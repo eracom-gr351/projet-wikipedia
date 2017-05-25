@@ -51,7 +51,10 @@ Présents: Manuel
 * Mise en place des différents groupes de travail
 * Groupe photo: mise en place d'un mini-studio photo (éclairage, fond neutre...), pour photographier des objets, affiches, livres.
 
-**Mercredi 21** : Loraine Furter  
+**Mercredi 21** : Loraine Furter
+
+* Présentation des activités "Just For The Record" (Loraine)
+ 
 **Jeudi 22** : Loraine Furter
   
 **Vendredi 23** : Manuel
