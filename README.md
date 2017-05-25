@@ -31,7 +31,7 @@ Ce workshop vise à travailler sur la plateforme Wikipédia, et enseignera aux p
 Possibilité de faire intervenir des personnes de la communauté Wikipédia. Il y a notamment à Lausanne: 
 
 * [Flor Méchain](https://fr.wikipedia.org/wiki/Utilisateur:Flor_WMCH), Community liaison de l'association Wikimedia CH pour la Suisse romande
-* [Rama Neko](https://commons.wikimedia.org/wiki/User:Rama), photographe pour Wikipedia
+* [Rama Neko](https://commons.wikimedia.org/wiki/User:Rama), photographe pour Wikipedia: disponible jours 2 ou 3.
 * [Jenny Ebermann](https://meta.wikimedia.org/wiki/User:Jeeb1207), directrice de Wikimedia CH
 
 ## Calendrier
@@ -49,11 +49,15 @@ Présents: Manuel
 * Syntaxe wiki (citations, images...)
 * Création d'articles dans l'espace utilisateur
 * Mise en place des différents groupes de travail
-* Mise en place d'un mini-studio photo (éclairage, fond neutre...)
+* Mise en place d'un mini-studio photo (éclairage, fond neutre...), pour photographier des objets, affiches, livres.
 
 **Mercredi 21** : Loraine Furter  
-**Jeudi 22** : Loraine Furter  
+**Jeudi 22** : Loraine Furter
+  
 **Vendredi 23** : Manuel
+
+* Creation et impression de posters reprenant des contenus créés durant la semaine.
+* Fin d'après-midi: projection du film "Graphic Means".
 
 ***
 
