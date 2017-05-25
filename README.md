@@ -41,14 +41,15 @@ Sujets:
 
 * Wikipédia, introduction, fonctionnement, historique...  
 * Licences libres, philosophie et conséquences pratiques.
+* Brainstorming, choix des sujets que les équipes vont documenter durant la semaine.
 
 **Mardi 20**
 Présents: Manuel
 
-* Syntaxe wiki (citations, images...)
+* Technique: syntaxe wiki (citations, images...)
 * Création d'articles dans l'espace utilisateur
 * Mise en place des différents groupes de travail
-* Mise en place d'un mini-studio photo (éclairage, fond neutre...), pour photographier des objets, affiches, livres.
+* Groupe photo: mise en place d'un mini-studio photo (éclairage, fond neutre...), pour photographier des objets, affiches, livres.
 
 **Mercredi 21** : Loraine Furter  
 **Jeudi 22** : Loraine Furter
