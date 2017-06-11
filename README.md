@@ -4,7 +4,7 @@
 
 * **Dates:** 19-23 juin 2017
 * **Lieu:** Eracom, Rue de Genève 55, Lausanne
-* **Equipe:** Anne Hogge Duc, Loraine Furter, Manuel Schmalstieg
+* **Equipe:** Loraine Furter, Manuel Schmalstieg
 * **Intervenants:** Flor Méchain
 
 Ce workshop vise à travailler sur la plateforme Wikipédia, et enseignera aux participants comment contribuer à cette encyclopédie en ligne.
@@ -59,7 +59,8 @@ Présents: Manuel
   
 **Vendredi 23** : Manuel
 
-* Creation et impression de posters reprenant des contenus créés durant la semaine.
+* Finalisation des articles traités durant la semaine.
+* Eventuellement: création et impression de posters reprenant des contenus créés durant la semaine.
 * Fin d'après-midi: projection du film "Graphic Means".
 
 ***
@@ -68,13 +69,13 @@ Présents: Manuel
 
 Quelques projets / ateliers ayant eu lieu autour de Wikipedia:
 
-* [Wiki-Sprint](https://wiki-sprint.ch/), atelier d'une semaine autour de la définition du VJing, dans le cadre du Mapping Festival 2010. Dirigé par Manuel Schmalstieg. A résulté en [un article](https://en.wikipedia.org/wiki/VJing) et [un livre](https://greyscalepress.com/2010/books/vjing/).
-* [Wikipedia Illustrated](http://www.wikipediaillustrated.org/about), lancé en 2011 au Transmediale Festival (by artist/illustrator Galia Offri and by designer/educator Mushon Zer-Aviv.)
 * [Just for the record](http://justfortherecord.space/), série d'ateliers organisés à Bruxelles, projet initié en 2015 par Myriam Arseneault-Goulet, Loraine Furter, Sarah Magnan et Mia Melvær. Nombreux événements en 2016 et 2017.
+* [Wiki-Sprint](https://wiki-sprint.ch/), atelier d'une semaine autour de la définition du VJing, dans le cadre du Mapping Festival 2010. Dirigé par Manuel Schmalstieg. A résulté en [un article](https://en.wikipedia.org/wiki/VJing) et [un livre](https://greyscalepress.com/2010/books/vjing/).
 * [Projet Art+Féminisme](https://fr.wikipedia.org/wiki/Projet:Art%2BF%C3%A9minisme/2017/Gen%C3%A8ve), mars 2017 à Genève.
 * [Iraq War Wikihistoriography](http://booktwo.org/notebook/wikipedia-historiography/) (2010), projet de James Bridle, version imprimée de l'historique d'un article Wikipédia.
 * [Print Wikipedia](http://www.mandiberg.com/print-wikipedia/) (2015), projet de Michael Mandiberg, version imprimée de la Wikipédia anglophone ([interview](http://www.artnews.com/2015/06/24/from-aaaaa-to-zzzap-michael-mandiberg-on-his-plan-to-print-wikipedia/)).
+* * [Wikipedia Illustrated](http://www.wikipediaillustrated.org/about), lancé en 2011 au Transmediale Festival (by artist/illustrator Galia Offri and by designer/educator Mushon Zer-Aviv.)
 
-## Quelques sujets d'articles possibles
+## Quelques sujets d'articles possibles
 
 * Articles concernant le graphisme en suisse, existant en allemand mais pas en français: [Die schönsten Schweizer Bücher](https://de.wikipedia.org/wiki/Die_sch%C3%B6nsten_Schweizer_B%C3%BCcher), [Ludovic Balland](https://de.wikipedia.org/wiki/Ludovic_Balland), [Eidgenössischer Wettbewerb für Design](https://de.wikipedia.org/wiki/Eidgen%C3%B6ssischer_Wettbewerb_f%C3%BCr_Design)...
